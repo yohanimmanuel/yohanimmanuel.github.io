@@ -1,1 +1,1 @@
-<heading> Genshin Impact </heading>
+<h1> Genshin Impact </h1> 
