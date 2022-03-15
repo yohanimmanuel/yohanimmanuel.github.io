@@ -1,7 +1,9 @@
-<h1> Genshin Impact </h1> 
-<img src="https://gamebrott.com/wp-content/uploads/2021/05/Genshin-Impact-Paimon.png" alt="Paimon Genshin Impact."> 
 <body>
   <nav>
     <label class="logo">Genshin Impact</label>
     <ul>
-      <li><a href="#">
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Characters</a></li>
+      <li><a href="#">Weapons</a></li>
+      <li><a href="#">Artifacts</a></li>
+      <li><a href="#">Contact</a></li>
