@@ -1,15 +1,20 @@
 *{
-  padding: 0;
-  margin: 0;
-  text-decoration: none;
-  list-style: none;
-  box-sizing: border-box;
-}
-body{
-  font-family: montsterrat;
-}
-nav{
-  background-image: "https://static.zerochan.net/Kamisato.Ayaka.full.3427751.jpg";
-  height: 80px
-}
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+  }
+  body{  
+    font-family: montsterrat;
+  }
+   
+  .web-back{  
+    min-height: 100%;
+    background-image: url("Kamisato\ Ayaka\ Fanart.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  }
+
 
