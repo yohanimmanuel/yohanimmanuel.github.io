@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+  }
+  body{  
+    font-family: roboto;
+    text-align: center;
+  }
+   
+  .web-back-3{  
+    min-height: 100%;
+    background-color:rgb(28, 166, 28);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  }
