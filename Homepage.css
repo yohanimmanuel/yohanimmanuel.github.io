@@ -46,14 +46,12 @@
     line-height: 80px;
     margin:0 5px;
     font-weight: bold;
-    padding: 0 120px;
+    padding: 0 4%;
   }
 
   .menu-bar .fa{
     margin-right: 8px;
   }
-
-  
 
   .sub-menu-1{
     display: none;
