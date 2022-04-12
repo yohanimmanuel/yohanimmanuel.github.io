@@ -97,6 +97,8 @@
     font-weight: bold;
     padding: 0 10px;
     text-align: center;
+    display: inline-block;
+    width: 50%;
   }
 
   .web-back .link{
