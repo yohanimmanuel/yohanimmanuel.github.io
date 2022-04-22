@@ -4,6 +4,7 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
+    
   }
   body{  
     font-family: roboto;
@@ -46,12 +47,14 @@
     line-height: 80px;
     margin:0 5px;
     font-weight: bold;
-    padding: 0 4%;
+    padding: 0 120px;
   }
 
   .menu-bar .fa{
     margin-right: 8px;
   }
+
+  
 
   .sub-menu-1{
     display: none;
@@ -97,8 +100,6 @@
     font-weight: bold;
     padding: 0 10px;
     text-align: center;
-    display: inline-block;
-    width: 50%;
   }
 
   .web-back .link{
@@ -113,7 +114,6 @@
     background-color: rgb(0, 174, 116);
     height: 50px;
   }
-
   
 
 
