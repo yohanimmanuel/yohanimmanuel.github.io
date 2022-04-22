@@ -17,3 +17,79 @@
     background-size: cover;
     background-position: center center;
   }
+
+  .dendro{
+    padding: 0 650px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 45px;
+  }
+
+  .menu-bar ul li{
+    text-transform: uppercase;
+    background-color: rgb(19, 130, 19);
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(19, 130, 19);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+    font-weight: bold;
+    padding: 0 120px;
+  }
+
+  .web-back-2 .paragraph{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 23px;
+    line-height: 20px;
+    margin: 0 100px;
+    font-weight: bold;
+    text-align: center;
+    
+  }
+  
+  .dendroparagraph{
+    border-style: dashed;
+    border-width: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 23px;
+    line-height: 70px;
+    margin: 0 100px;
+    font-weight: bold;
+    padding: 0 10px;
+    text-align: center;
+  }
+
+
+  .dendrolist ul li{
+    text-transform: uppercase;
+    background-color: rgb(19, 130, 19);
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(19, 130, 19);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    line-height: 50px;
+    margin: 0 5px;
+    font-weight: bold;
+    padding: 0 40px;
+  }
+
+
+  .website{
+    padding: 0 811px;
+    text-align: center;
+    margin:0 10px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    border-style: solid;
+    border-width: 7px;
+    border-color: rgb(19, 130, 19);
+    background-color: rgb(19, 130, 19);
+    height: 50px;
+  }
