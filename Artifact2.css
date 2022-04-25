@@ -114,3 +114,39 @@ Label.logo{
   background-color: rgb(219, 99, 246);
   height: 50px;
 }
+
+.artifact4 {
+  border-style: dashed;
+  border-width: 5px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 23px;
+  line-height: 70px;
+  margin: 0 200px;
+  font-weight: bold;
+  padding: 0 10px;
+  text-align: center;
+}
+
+.artifact5 {
+  border-style: dashed;
+  border-width: 5px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 23px;
+  line-height: 70px;
+  margin: 0 200px;
+  font-weight: bold;
+  padding: 0 10px;
+  text-align: center;
+}
+
+.artifact6 {
+  border-style: dashed;
+  border-width: 5px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 23px;
+  line-height: 70px;
+  margin: 0 200px;
+  font-weight: bold;
+  padding: 0 10px;
+  text-align: center;
+}
