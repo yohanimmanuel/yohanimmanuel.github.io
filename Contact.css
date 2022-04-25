@@ -90,16 +90,33 @@
   }
 
   .web-back-12 .paragraph{
+    text-align: left;
+  }
+  
+  .contactparagraph{
     border-style:dashed;
     border-width: 5px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 23px;
+    font-size: 30px;
     line-height: 200%;
     margin: 0 25%;
     font-weight: bold;
     padding: 0 10px;
-    text-align: center;
+    text-align: left;
   }
+
+  .socialmedia{
+    border-style:dashed;
+    border-width: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    line-height: 200%;
+    margin: 0 25%;
+    font-weight: bold;
+    padding: 0 10px;
+    text-align: left;
+  }
+
 
   
 
