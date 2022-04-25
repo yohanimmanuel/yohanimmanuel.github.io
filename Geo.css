@@ -29,7 +29,7 @@
   }
 
   .geo{
-    padding: 0 650px;
+    padding: 0 30%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
     font-size: 45px;
@@ -66,8 +66,8 @@
     border-width: 5px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 23px;
-    line-height: 70px;
-    margin: 0 200px;
+    line-height: 250%;
+    margin: 0 15%;
     font-weight: bold;
     padding: 0 10px;
     text-align: center;
@@ -91,7 +91,7 @@
 
 
   .website{
-    padding: 0 811px;
+    padding: 0px 25%;
     text-align: center;
     margin:0 10px;
     font-size: 30px;
