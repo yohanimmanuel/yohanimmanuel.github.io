@@ -40,6 +40,41 @@
     padding: 0 120px;
   }
 
+  .sub-menu-1{
+    display: none;
+  }
+
+  .menu-bar ul li:hover .sub-menu-1{
+    display:block;
+    position:absolute;
+    background: pink;
+    margin-top:15px;
+    margin-left:-15px;
+  }
+
+  .menu-bar ul li:hover .sub-menu-1 ul{
+    display:block;
+    margin: 10px;
+  }
+
+  .menu-bar ul li:hover .sub-menu-1 ul li{
+    width: 150px;
+    padding: 10px;
+    border-bottom: 1px dotted #fff;
+    background: transparent;
+    border-radius: 0;
+    text-align: left;
+  }
+
+  .sub-menu-2{
+    display: none;
+  }
+
+  .sub-menu-3{
+    display: none;
+  }
+
+
   .web-back-2 .paragraph{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
