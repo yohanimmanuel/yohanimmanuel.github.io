@@ -74,14 +74,14 @@
     font-size: 20px;
     display: inline-block;
     line-height: 50px;
-    margin: 0 5px;
+    margin: 0 px;
     font-weight: bold;
-    padding: 0 40px;
+    padding: 0 30px;
   }
 
 
   .website{
-    padding: 0 822px;
+    padding: 0 813px;
     text-align: center;
     margin:0 10px;
     font-size: 30px;
@@ -93,3 +93,7 @@
     background-color: rgb(76, 93, 243);
     height: 50px;
   }
+
+  
+
+  

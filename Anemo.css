@@ -81,7 +81,7 @@
 
 
   .website{
-    padding: auto;
+    padding: 0 811px;
     text-align: center;
     margin:0 10px;
     font-size: 30px;
@@ -93,7 +93,6 @@
     background-color: rgb(30, 186, 30);
     height: 50px;
   }
-
 
   
 
