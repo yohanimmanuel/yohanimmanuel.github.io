@@ -18,3 +18,99 @@
     background-size: cover;
     background-position: center center;
   }
+
+  .nav{
+    background-color: rgb(185, 61, 16);
+    min-height: 80px;
+    width: 100%;
+  }
+
+  Label.logo{
+    text-align: center;
+    color: rgb(255, 232, 232);
+    font-size: 350%;
+    line-height: 100%;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .web-back-8 ul li{
+    text-transform: uppercase;
+    background-color: rgb(221, 93, 119);
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(221, 93, 119);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    display: inline-block;
+    line-height: 200%;
+    margin: auto;
+    font-weight: bold;
+    padding: 0 5%;
+  }
+
+  .menu-bar .fa{
+    margin-right: 8px;
+  }
+
+  
+
+  .sub-menu-1{
+    display: none;
+  }
+
+  .menu-bar ul li:hover .sub-menu-1{
+    display:block;
+    position:absolute;
+    background: pink;
+    margin-top:15px;
+    margin-left:-15px;
+  }
+
+  .menu-bar ul li:hover .sub-menu-1 ul{
+    display:block;
+    margin: 10px;
+  }
+
+  .menu-bar ul li:hover .sub-menu-1 ul li{
+    width: 150px;
+    padding: 10px;
+    border-bottom: 1px dotted #fff;
+    background: transparent;
+    border-radius: 0;
+    text-align: left;
+  }
+
+  .sub-menu-2{
+    display: none;
+  }
+
+  .sub-menu-3{
+    display: none;
+  }
+
+  .artifactparagraph{
+    border-style: dashed;
+    border-width: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 23px;
+    line-height: 70px;
+    margin: 0 100px;
+    font-weight: bold;
+    padding: 0 10px;
+    text-align: center;
+  }
+
+  .link{
+    padding: 0 811px;
+    text-align: center;
+    margin:0 10px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    border-style: solid;
+    border-width: 7px;
+    border-color: rgb(43, 204, 249);
+    background-color: rgb(43, 204, 249);
+    height: 50px;
+  }
