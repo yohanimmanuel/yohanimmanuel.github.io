@@ -85,8 +85,52 @@ Label.logo{
   display: none;
 }
 
+.menu-bar ul li:hover .sub-menu-1{
+  display:block;
+  position:absolute;
+  background: pink;
+  margin-top:15px;
+  margin-left:-15px;
+}
+
+.menu-bar ul li:hover .sub-menu-1 ul{
+  display:block;
+  margin: 10px;
+}
+
+.menu-bar ul li:hover .sub-menu-1 ul li{
+  width: 150px;
+  padding: 10px;
+  border-bottom: 1px dotted #fff;
+  background: transparent;
+  border-radius: 0;
+  text-align: left;
+}
+
 .sub-menu-3{
   display: none;
+}
+
+.menu-bar ul li:hover .sub-menu-1{
+  display:block;
+  position:absolute;
+  background: pink;
+  margin-top:15px;
+  margin-left:-15px;
+}
+
+.menu-bar ul li:hover .sub-menu-1 ul{
+  display:block;
+  margin: 10px;
+}
+
+.menu-bar ul li:hover .sub-menu-1 ul li{
+  width: 150px;
+  padding: 10px;
+  border-bottom: 1px dotted #fff;
+  background: transparent;
+  border-radius: 0;
+  text-align: left;
 }
 
 .weaponparagraph{
@@ -113,4 +157,40 @@ Label.logo{
   border-color: rgb(143, 228, 252);
   background-color: rgb(143, 228, 252);
   height: 50px;
+}
+
+.weapon1{
+  border-style: dashed;
+  border-width: 5px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 23px;
+  line-height: 70px;
+  margin: 0 50px;
+  font-weight: bold;
+  padding: 0 10px;
+  text-align: center;
+}
+
+.weapon2{
+  border-style: dashed;
+  border-width: 5px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 23px;
+  line-height: 70px;
+  margin: 0 50px;
+  font-weight: bold;
+  padding: 0 10px;
+  text-align: center;
+}
+
+.weapon3{
+  border-style: dashed;
+  border-width: 5px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 23px;
+  line-height: 70px;
+  margin: 0 50px;
+  font-weight: bold;
+  padding: 0 10px;
+  text-align: center;
 }
