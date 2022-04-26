@@ -23,7 +23,11 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
     padding: 0 5%;
+<<<<<<< HEAD
+    font-size: 45px;
+=======
     font-size:45px;
+>>>>>>> 0e0631107e9dc9f75c73081be220db634c41939f
   }
 
   .menu-bar ul li{
