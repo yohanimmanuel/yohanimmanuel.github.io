@@ -25,7 +25,7 @@
     font-size: 45px;
   }
 
-  .menu-bar ul li{
+  .menu-bar ul button{
     text-transform: uppercase;
     background-color: rgb(45, 217, 45);
     border-style: solid;
@@ -38,6 +38,23 @@
     margin: 0 5px;
     font-weight: bold;
     padding: 0 5%;
+    
+  }
+
+  .dropbtn{
+    text-transform: uppercase;
+    background-color: rgb(45, 217, 45);
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(45, 217, 45);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+    font-weight: bold;
+    padding: 0 5%;
+    
   }
 
   .sub-menu-1{
@@ -55,6 +72,10 @@
   .menu-bar ul li:hover .sub-menu-1 ul{
     display:block;
     margin: 10px;
+  }
+
+   .show{
+    display: block;
   }
 
   .menu-bar ul li:hover .sub-menu-1 ul li{

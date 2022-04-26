@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src="javascript.js"></script>
     <title>Genshin Impact Game</title>
 </head>
 <body>  
@@ -16,37 +17,37 @@
     <br/><br/>
         <div class="menu-bar">
             <ul>
-                <li><a href="#"><i class="fa fa-home"></i>Home</a></li>
-                <li><a href="#"><i class="fa fa-book"></i>Characters</a></li>
-                <div class="sub-menu-1">
-                    <ul>
-                        <li><a href="#">Pyro</a></li>
-                        <li><a href="#">Cryo</a></li>
-                        <li><a href="#">Geo</a></li>
-                        <li><a href="#">Electro</a></li>
-                        <li><a href="#">Anemo</a></li>
-                        <li><a href="#">Hydro</a></li>
-                        <li><a href="#">Dendro</a></li>
-                    </ul>
-                </div>
-                <li><a href="#"><i class="fa fa-gavel"></i>Weapons</a></li>
+                <button><a href="Homepage.html"><i class="fa fa-home"></i>Home</a></button>
+                <button onclick="dropdown()" class="dropbtn"><a href="#">Characters</a></button>
+                <button><a href="Weapon.html"><i class="fa fa-gavel"></i>Weapons</a></button>           
                 <div class="sub-menu-2">
                     <ul>
-                        <li><a href="#">Page 1</a></li>
-                        <li><a href="#">Page 2</a></li>
+                        <button><a href="Weapon.html">Page 1</a></button>
+                        <button><a href="Weapon2.html">Page 2</a></button>
                     </ul>
                 </div>
-                <li><a href="#"><i class="fa fa-angellist"></i>Artifacts</a></li>
+                <button><a href="Artifact.html"><i class="fa fa-angellist"></i>Artifacts</a></button>
                 <div class="sub-menu-3">
                     <ul>
-                        <li><a href="#">Page 1</a></li>
-                        <li><a href="#">Page 2</a></li>
+                        <button><a href="Artifact.html">Page 1</a></button>
+                        <button><a href="Artifact2.html">Page 2</a></button>
                     </ul>
                 </div>
-                <li><a href="#"><i class="fa fa-phone"></i>Contact</a></li>
+                <button><a href="Contact.html"><i class="fa fa-phone"></i>Contact</a></button>
+                <div id="droplist" class="sub-menu-1">
+                    <ul>
+                        <button><a href="Pyro.html">Pyro</a></button>
+                        <button><a href="Cryo.html">Cryo</a></button>
+                        <button><a href="Geo.html">Geo</a></button>
+                        <button><a href="Electro.html">Electro</a></button>
+                        <button><a href="Anemo.html">Anemo</a></button>
+                        <button><a href="Hydro.html">Hydro</a></button>
+                        <button><a href="Dendro.html">Dendro</a></button>
+                    </ul>
+                </div>
             </ul>
         </div>
-
+        
     <br/><br/><br/>
 
     <div class="wrapper">
