@@ -85,8 +85,52 @@
     display: none;
   }
 
+  .menu-bar ul li:hover .sub-menu-1{
+    display:block;
+    position:absolute;
+    background: pink;
+    margin-top:15px;
+    margin-left:-15px;
+  }
+
+  .menu-bar ul li:hover .sub-menu-1 ul{
+    display:block;
+    margin: 10px;
+  }
+
+  .menu-bar ul li:hover .sub-menu-1 ul li{
+    width: 150px;
+    padding: 10px;
+    border-bottom: 1px dotted #fff;
+    background: transparent;
+    border-radius: 0;
+    text-align: left;
+  }
+
   .sub-menu-3{
     display: none;
+  }
+
+  .menu-bar ul li:hover .sub-menu-1{
+    display:block;
+    position:absolute;
+    background: pink;
+    margin-top:15px;
+    margin-left:-15px;
+  }
+
+  .menu-bar ul li:hover .sub-menu-1 ul{
+    display:block;
+    margin: 10px;
+  }
+
+  .menu-bar ul li:hover .sub-menu-1 ul li{
+    width: 150px;
+    padding: 10px;
+    border-bottom: 1px dotted #fff;
+    background: transparent;
+    border-radius: 0;
+    text-align: left;
   }
 
   .web-back-12 .paragraph{
