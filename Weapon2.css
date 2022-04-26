@@ -34,7 +34,7 @@ Label.logo{
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.web-back-11 ul li{
+.web-back-11 ul button{
   text-transform: uppercase;
   background-color: rgb(230, 53, 209);
   border-style: solid;
@@ -47,6 +47,25 @@ Label.logo{
   margin: auto;
   font-weight: bold;
   padding: 0 5%;
+}
+
+.dropbtn{
+  text-transform: uppercase;
+  background-color: rgb(221, 93, 119);
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgb(221, 93, 119);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  display: inline-block;
+  line-height: 200%;
+  margin: auto;
+  font-weight: bold;
+  padding: 0 5%;
+}
+
+.show{
+  display: block;
 }
 
 .menu-bar .fa{
