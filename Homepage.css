@@ -14,6 +14,8 @@
   .web-back{  
     min-height: 100%;
     background-image: url("Kamisato\ Ayaka\ Fanart.png");
+    background-color: pink;
+    opacity: 0.85;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
