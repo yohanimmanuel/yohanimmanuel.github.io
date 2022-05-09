@@ -215,3 +215,48 @@ Label.logo{
   padding: 0 10px;
   text-align: center;
 }
+
+.pyroweapon{
+  text-transform: uppercase;
+  background-color: grey;
+  border-style: solid;
+  border-width: 2px;
+  border-color: grey;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  display: inline-block;
+  line-height: 200%;
+  margin: auto;
+  font-weight: bold;
+  padding: 0 5%;
+}
+
+.cryoweapon{
+  text-transform: uppercase;
+  background-color: grey;
+  border-style: solid;
+  border-width: 2px;
+  border-color: grey;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  display: inline-block;
+  line-height: 200%;
+  margin: auto;
+  font-weight: bold;
+  padding: 0 5%;
+}
+
+.anemoweapon{
+  text-transform: uppercase;
+  background-color: grey;
+  border-style: solid;
+  border-width: 2px;
+  border-color: grey;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  display: inline-block;
+  line-height: 200%;
+  margin: auto;
+  font-weight: bold;
+  padding: 0 5%;
+}

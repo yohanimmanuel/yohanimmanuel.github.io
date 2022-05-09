@@ -215,3 +215,48 @@ Label.logo{
   padding: 0 10px;
   text-align: center;
 }
+
+.geoweapon{
+  text-transform: uppercase;
+  background-color: rgb(230, 53, 209);
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgb(230, 53, 209);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  display: inline-block;
+  line-height: 200%;
+  margin: auto;
+  font-weight: bold;
+  padding: 0 5%;
+}
+
+.electroweapon{
+  text-transform: uppercase;
+  background-color: rgb(230, 53, 209);
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgb(230, 53, 209);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  display: inline-block;
+  line-height: 200%;
+  margin: auto;
+  font-weight: bold;
+  padding: 0 5%;
+}
+
+.hydroweapon{
+  text-transform: uppercase;
+  background-color: rgb(230, 53, 209);
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgb(230, 53, 209);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  display: inline-block;
+  line-height: 200%;
+  margin: auto;
+  font-weight: bold;
+  padding: 0 5%;
+}
